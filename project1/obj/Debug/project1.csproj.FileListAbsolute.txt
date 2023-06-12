@@ -1,0 +1,7 @@
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\bin\Debug\project1.exe.config
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\bin\Debug\project1.exe
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\bin\Debug\project1.pdb
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\obj\Debug\project1.exe
+C:\Users\Do Van Bac\source\repos\MyApplication\project1\obj\Debug\project1.pdb
